@@ -1,7 +1,7 @@
 # README.md for **Earth to Orbit: The Journey of Space Missions (1957-2022)**
 
 ---
-![Mission Trends](assets/D4I.gif "")
+![Mission Trends](assets/D4I.gif)
 
 ## 🌌 **Project Overview**
 
@@ -11,12 +11,12 @@ This project explores the journey of space missions over six decades (1957–202
 ## Visuals
 
 
-![Mission Trends](assets/first.png "")
+![](assets/first.png)
 
 
-![Success Rate](assets/second.png "")
+![](assets/second.png)
 
-![Success Rate](assets/third.png "")
+![](assets/third.png)
 
 ## 📊 **Key Insights**
 
