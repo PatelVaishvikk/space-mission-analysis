@@ -1,12 +1,22 @@
 # README.md for **Earth to Orbit: The Journey of Space Missions (1957-2022)**
 
 ---
+![Mission Trends](assets/D4I.gif "")
 
 ## 🌌 **Project Overview**
 
 This project explores the journey of space missions over six decades (1957–2022), visualized using **Power BI**. The dataset captures key insights into the number of missions, companies involved, countries participating, rocket statuses, and expenditures. This analysis provides a comprehensive view of global space exploration.
 
 ---
+## Visuals
+
+
+![Mission Trends](assets/first.png "")
+
+
+![Success Rate](assets/second.png "")
+
+![Success Rate](assets/third.png "")
 
 ## 📊 **Key Insights**
 
